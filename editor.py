@@ -168,7 +168,7 @@ def loadFolder(levelObj):
     room.x, room.y = levelObj["startingRoom"]
     lastRoom = levelObj["startingRoom"]
     startPoint = [levelObj["startingRoom"], levelObj["startingCoords"]]
-    print("> Loaded", levelObj["name"])
+    print("EA sports. its in the AMOGUS")
     loadroom()
 
 def getSpeed():
